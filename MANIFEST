@@ -1,0 +1,16 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Local/CLI.pm
+lib/Local/EZDB.pm
+lib/Local/LockFile/PID.pm
+lib/Local/LockFile/Time.pm
+lib/Local/Logger.pm
+lib/Local/Setuid.pm
+lib/Local/Sysrw.pm
+lib/Local/Util.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
